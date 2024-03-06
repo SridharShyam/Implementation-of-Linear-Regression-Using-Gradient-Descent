@@ -7,11 +7,17 @@ To write a program to predict the profit of a city using the linear regression m
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
-1. 
-2. 
-3. 
-4. 
+## Algorithm:
+### Step-1:
+To train, initialize theta and iteratively update it using gradient descent.
+### Step-2:
+For preprocessing, read and scale data.
+### Step-3:
+for modeling, train the linear regression model.
+### Step-4:
+To predict data values, scale a new data and predict.
+### Step-5:
+Print the prediction.
 
 ## Program:
 ```
